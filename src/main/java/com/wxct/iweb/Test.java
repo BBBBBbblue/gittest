@@ -5,4 +5,7 @@ package com.wxct.iweb;
  * @date 2022/12/31 16:01
  **/
 public class Test {
+    public static void main(String[] args) {
+//        这是新增的测试注释
+    }
 }
